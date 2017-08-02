@@ -12,7 +12,7 @@ company in Dayton or the Springfield. This is a test to see how Rails and Ruby w
 
 SEPTIC PUMPING - importance of the phrase
 
-I have been working with a local septic tank company and so far he has been a great guy to work with. He has an established [septic pumping business](http:/www.septictankdayton.com) that his grandfather had started. I was able to get him some leads organically, but have not had much luck with google adwords or bing adwords. 
+I have been working with a local septic tank company and so far he has been a great guy to work with. He has an established [septic pumping](http:/www.septictankdayton.com) business that his grandfather had started. I was able to get him some leads organically, but have not had much luck with google adwords or bing adwords. 
 
 Hoping to get better rankings that will lead to more phone calls for my client. 
 
