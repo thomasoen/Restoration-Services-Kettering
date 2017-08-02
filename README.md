@@ -1,7 +1,7 @@
 # README
 
 This will be my first project made in the rails system. I am creating a site for a 
-[septic cleaning service](http:/www.septictankdayton.com) in the local area. I am hoping this will be the first successful program that will help my client
+[septic cleaning](http:/www.septictankdayton.com) service in the local area. I am hoping this will be the first successful program that will help my client
 
 I have more experience in dealing with the people in the area than actually 
 using the RAILS system. This is especially true for septic tank companies in 
